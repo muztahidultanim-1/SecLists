@@ -594,6 +594,7 @@ addnews.asp
 add2.asp
 voteadd.asp
 votedel.asp
+UserList.asp
 votemodify.asp
 votesave.asp
 wap.asp
